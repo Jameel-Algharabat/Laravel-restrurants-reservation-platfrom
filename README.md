@@ -14,7 +14,7 @@ We developed this project using Laravel, HTML5, CSS3, and JS. Our website aims t
 
 - Clone the repository to your local machine
 ```
-git clone https://github.com/YOUR_USERNAME/restaurant-reservation-system.git
+git clone https://github.com/Jameel-Algharabat/Laravel-restrurants-reservation-platfrom.git
 ```
 - Navigate to the project directory
 ```
